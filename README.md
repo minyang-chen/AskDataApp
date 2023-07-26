@@ -1,5 +1,5 @@
 # AskDataApp
 Ask Data App Leverage Agents in LangChain to interact with pandas DataFrame
 
-# deploy it
+# Try it
 https://askdataframe.streamlit.app/
