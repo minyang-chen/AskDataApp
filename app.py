@@ -6,7 +6,7 @@ from langchain.agents.agent_types import AgentType
 
 # Page title
 st.set_page_config(page_title='🦜🔗 Ask Dataframe App')
-st.title('🦜🔗 Ask Dataframe App')
+st.title('🦜🔗 Ask My Dataframe App')
 
 # Load CSV file
 def load_csv(input_csv):
